@@ -1,0 +1,81 @@
+  ____________________________
+  ____________________________
+  
+  MediaKeys 2.0.0 [2022.10.23]
+  ____________________________
+  ____________________________
+  
+  MediaKeys é um programa para Windows, um script muito simples 
+  que atribui funções multimídia a sete teclas do teclado numérico.
+  O programa atribui a elas funções normalmente utilizadas em 
+  reprodutores de música e vídeo, como Play/Pause, End, Mute e 
+  assim por diante.
+  
+  Outras oito teclas ou combinações de teclas também foram 
+  remapeadas para rodar o atalho "Alt-Tab" e alguns aplicativos do 
+  Windows. Por via de regra, foram escolhidos para acionamento a 
+  partir de uma única tecla aplicativos que rodam apenas uma 
+  instância, como o Painel de Controle; aos aplicativos que podem 
+  rodar inumeráveis instâncias simultâneas, como a Calculadora, 
+  foram atribuídas combinações de teclas. A única exceção a essa 
+  regra é o Resource Monitor, que roda apenas uma instância mas é 
+  executado com uma combinação de teclas.
+  
+  O mapa visual de todas as teclas e suas combinações pode ser 
+  consultado no arquivo de imagem "MediaKeys.png".
+  
+  Como todas as funções do teclado numérico são redundantes, nenhuma 
+  funcionalidade é perdida com o uso do MediaKeys. A tecla "NumLock" 
+  continuará alternando entre o uso das funções e o uso dos números 
+  para operações matemáticas e, caso seja necessário, a execução do 
+  MediaKeys poderá ser pausada ou interrompida por meio do ícone do 
+  programa na Bandeja do sistema.
+  
+  VERSÃO ALTERNATIVA
+  
+  Uma versão mais simples deste programa, que contém apenas as teclas
+  multimídia e a funcionalidade Alt+Tab, pode ser encontrada aqui:
+  https://github.com/pontocinza/MediaKeysOnly
+  
+  INSTALAÇÃO DO PROGRAMA
+  
+  O instalador do programa (MediaKeys-2.0.0-SETUP.exe) irá criar um
+  diretório na pasta de Programas e um atalho na pasta "Startup" do 
+  usuário. Assim, programa irá rodar automaticamente sempre que o 
+  Windows for iniciado.
+  
+  COMO DESINSTALAR O PROGRAMA
+  
+  Para desinstalar o MediaKeys, siga estes passos:
+   
+  1. Exclua a pasta "C:\Program Files\MediaKeys\".
+  2. Acesse a pasta "Startup" digitando "shell:startup" 
+     (sem as aspas) na barra de endereços do File Explorer 
+     e exclua o atalho "MediaKeys".
+  
+  CHANGELOG
+  
+  2.0  + Adicionadas entradas recomendadas pelo AutoHotkey.
+       + Adicionada entrada para iniciar com NumLock OFF.
+       + O mapa de teclas foi ampliado e otimizado.
+       * O instalador agora roda exclusivamente em 64 bits 
+         (tal como o próprio MediaKeys).
+  1.0    Primeira versão.
+  
+  LICENÇA DE USO
+  
+  MediaKeys é distribuído nos termos da GNU General Public License 
+  (Versão 3). Seu código-fonte pode ser livremente modificado e 
+  redistribuído de acordo com os termos dessa licença.
+  
+  AGRADECIMENTOS
+  
+  O MediaKeys foi desenvolvido e compilado com um sofisticado 
+  software de código aberto chamado AutoHotkey. Aos autores desse 
+  extraordinário programa, bem como ao GitHub, que hospeda este
+  minúsculo script, deixo aqui os meus agradecimentos.
+  
+  https://github.com/pontocinza/MediaKeys
+  23 de outubro de 2022
+  Francisco T. Fuchs
+  
