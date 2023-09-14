@@ -1,0 +1,17 @@
+Further Development of MediaKeys & MediaKeysOnly
+
+I'm waiting for the release of the final version of
+AutoHotkey 2 in order to compile again the code
+of both programs; then I'll make NSIS installers 
+with uninstalling function.
+
+However, the further releases of these simple 
+programs will appear only in my personal blog:
+
+https://pontocinza.wordpress.com/mediakeys/
+
+Last but not least, thanks to GitHub for hosting 
+this humble project. Best of luck for you all!
+
+Francisco T. Fuchs
+2023.09.14
