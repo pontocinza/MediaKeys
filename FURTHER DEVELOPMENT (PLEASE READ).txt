@@ -5,8 +5,8 @@ AutoHotkey 2 in order to compile again the code
 of both programs; then I'll make NSIS installers 
 with proper uninstallers.
 
-However, the further releases of these simple 
-programs will appear only in my personal blog:
+However, the upcoming releases of these programs 
+will appear only in my personal blog:
 
 https://pontocinza.wordpress.com/mediakeys/
 
